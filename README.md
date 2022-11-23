@@ -19,3 +19,5 @@ Used with my theme:
 ### Terminal
 
 ![Terminal](./images/term_colors.png)
+
+> I inverted blue and cyan lmao
