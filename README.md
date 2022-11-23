@@ -2,11 +2,11 @@
 
 My personal theme :D
 
-It matches with the style of my [website](https://qexat.com/)
+It matches the style of my [website](https://qexat.com/)
 
 ## Screenshots
 
-Used along with my theme:
+Used with my theme:
 
 - Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
