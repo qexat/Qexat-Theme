@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#544d60"
+        "foreground": "#796a96"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#544d60"
+        "foreground": "#796a96"
       }
     },
     {
@@ -1789,8 +1789,8 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#544d60"
+        "fontStyle": "normal",
+        "foreground": "#796a96"
       }
     },
     {
