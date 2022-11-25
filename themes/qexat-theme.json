@@ -1789,7 +1789,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#796a96"
       }
     },
