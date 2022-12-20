@@ -1,8 +1,6 @@
 # Qexat's theme
 
-My personal theme :D
-
-It matches the style of my [website](https://qexat.com/)
+🌷 My personal theme! ✨ It matches the style of my [website](https://qexat.com/).
 
 ## Install (Visual Studio Code)
 
@@ -29,4 +27,4 @@ Used with my theme:
 
 ![Terminal](./images/term_colors.png)
 
-> I inverted blue and cyan lmao
+> I inverted blue and cyan in the program lmao
