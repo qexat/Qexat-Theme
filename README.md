@@ -4,12 +4,14 @@ My personal theme :D
 
 It matches the style of my [website](https://qexat.com/)
 
-## Install
+## Install (Visual Studio Code)
 
 1. In the [Releases page](https://github.com/qexat/qexat-theme/releases), download the latest file `qexat-theme-<version>.vsix`.
-2. In Visual Studio Code, press `Ctrl` + `Shift` + `P` and start typing `Developer: Install Extension from Location...` until it gets suggested.
+2. In VS Code, press `Ctrl` + `Shift` + `P` and start typing [`Developer: Install Extension from Location...`](https://code.visualstudio.com/updates/v1_74#_install-an-extension-located-on-disk) until it gets suggested\*.
 3. Choose the previously downloaded file. That should install it automatically.
 4. And voilà!
+
+> \* If the command does not show up, check if VS Code is up to date.
 
 ## Screenshots
 
